@@ -1,0 +1,14 @@
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\bin\Debug\net8.0\LibraryManagemenetSystem.exe
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\bin\Debug\net8.0\LibraryManagemenetSystem.deps.json
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\bin\Debug\net8.0\LibraryManagemenetSystem.runtimeconfig.json
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\bin\Debug\net8.0\LibraryManagemenetSystem.dll
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\bin\Debug\net8.0\LibraryManagemenetSystem.pdb
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\LibraryManagemenetSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\LibraryManagemenetSystem.AssemblyInfoInputs.cache
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\LibraryManagemenetSystem.AssemblyInfo.cs
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\LibraryManagemenetSystem.csproj.CoreCompileInputs.cache
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\LibraryManagemenetSystem.dll
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\refint\LibraryManagemenetSystem.dll
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\LibraryManagemenetSystem.pdb
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\LibraryManagemenetSystem.genruntimeconfig.cache
+D:\Camp4-2\LibraryManagemenetSystem\LibraryManagemenetSystem\obj\Debug\net8.0\ref\LibraryManagemenetSystem.dll
